@@ -1,4 +1,4 @@
-#Buscador de vagas de emprego no LinkedIn e Gerador de Recomendações para Iniciantes
+# Buscador de vagas de emprego no LinkedIn e Gerador de Recomendações para Iniciantes
 
 O projeto busca fornecer um programa que permita a busca de vagas no LinkedIn através de uma palavra ou termo que descreva o cargo (por exemplo, "DevOps") e uma localização (por exemplo, "Brazil").
 
